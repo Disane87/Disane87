@@ -4,9 +4,6 @@
  )(_) )_)(_ \__ \ /(__)\  )  (  )__) / _ \ / / 
 (____/(____)(___/(__)(__)(_)\_)(____)\___/(_/  
 ```
-
-### Hi there 👋
-
 <!--
 **Disane87/Disane87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
