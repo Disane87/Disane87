@@ -60,7 +60,7 @@ A simple tool to create images from text using Node.js.
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 🤝
 
 ## 📫 Connect with me
-- **Blog:** [disane.dev](http://blog.disane.dev)
+- **Blog:** [disane.dev](http://blog.disane.dev/en)
 - **Twitter:** [@disane1987](https://twitter.com/disane1987)
 - **Twitch:** [disane87](https://www.twitch.tv/disane87)
 
