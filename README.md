@@ -20,6 +20,11 @@ I'm a professional fullstack developer based in Viersen, NRW, Germany. With over
 
 Additionally I'm pretty addicted to microcontrollers, smart home and other techytechy stuff 🧑🏼‍🔬
 
+## ⛑️ Community & Support
+If you want to join my lovely community and/or in need for some support, just head over to my community 👯
+
+[![Banner](./forum_banner.png)](https://forum.disane.dev)
+
 ## 🛠️ My Recent Projects
 
 ### [📄 docudigger](https://github.com/Disane87/docudigger)
