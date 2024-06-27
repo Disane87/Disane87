@@ -1,9 +1,4 @@
-```
- ____  ____  ___    __    _  _  ____  ___  ___ 
-(  _ \(_  _)/ __)  /__\  ( \( )( ___)( _ )(__ )
- )(_) )_)(_ \__ \ /(__)\  )  (  )__) / _ \ / / 
-(____/(____)(___/(__)(__)(_)\_)(____)\___/(_/  
-```
+![Disane Banner](./disane_banner.png)
 <!--
 **Disane87/Disane87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
