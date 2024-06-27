@@ -1,4 +1,4 @@
-![Disane Banner](./disane_banner.png)
+![Banner](./disane_banner.webp)
 <!--
 **Disane87/Disane87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
