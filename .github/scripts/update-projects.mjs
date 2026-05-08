@@ -85,13 +85,16 @@ function renderProject(repo) {
 }
 
 function buildBlock(projects) {
-  const today = new Date().toISOString().slice(0, 10);
+  const force = process.env.FORCE_REFRESH === "1";
+  const stamp = force
+    ? new Date().toISOString().replace(/\.\d{3}Z$/, "Z")
+    : new Date().toISOString().slice(0, 10);
   const body = projects.map(renderProject).join("\n\n");
   return [
     START,
     "## 🛠️ My Recent Projects",
     "",
-    `_Auto-updated daily — last refresh: ${today}_`,
+    `_Auto-updated daily — last refresh: ${stamp}_`,
     "",
     body,
     "",

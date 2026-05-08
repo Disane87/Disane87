@@ -21,6 +21,7 @@ jobs:
       - name: Refresh project list
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE_REFRESH: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: node .github/scripts/update-projects.mjs
 
       - name: Commit changes
