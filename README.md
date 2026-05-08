@@ -30,16 +30,11 @@ If you want to join my lovely community and/or in need for some support, just he
 
 _Auto-updated daily — last refresh: 2026-05-08_
 
-### [🟦 Klar](https://github.com/Disane87/Klar)
-Self-hosted, privacy-first household budget tracker
-- **Language:** TypeScript
-- ⭐ 0 · 🍴 0 · last push 2026-05-07
-
-### [💚 spoolman-filament-swatch](https://github.com/Disane87/spoolman-filament-swatch)
-This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
-- **Language:** Vue
-- **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
-- ⭐ 0 · 🍴 2 · last push 2026-05-07
+### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
+Spoolman home assistant integration 🏠
+- **Language:** Python
+- **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
+- ⭐ 216 · 🍴 21 · last push 2026-04-27
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
@@ -47,11 +42,17 @@ This is a beautiful, interactive filament color browser for Spoolman. Think of i
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
 - ⭐ 10 · 🍴 1 · last push 2026-05-04
 
-### [🟦 vellum](https://github.com/Disane87/vellum)
-A privacy-first desktop email client for IMAP/SMTP ✉️
+### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
+Get Threads api short- and long-lived access tokens automagically 🪄
+- **Language:** Python
+- **Topics:** meta, rest-api, tester, threads, threadsapi
+- ⭐ 5 · 🍴 0 · last push 2024-09-04
+
+### [🟦 grocy-meal-planning](https://github.com/Disane87/grocy-meal-planning)
+Comfortable meal planning with grocy 🥗
 - **Language:** TypeScript
-- **Topics:** angular, desktop-app, electron, email, email-client, imap
-- ⭐ 0 · 🍴 0 · last push 2026-05-04
+- **Topics:** angular, grocy, meal-planner, rxjs, tailwindcss
+- ⭐ 4 · 🍴 1 · last push 2026-03-22
 
 ### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
@@ -59,11 +60,11 @@ Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
 - ⭐ 3 · 🍴 1 · last push 2026-04-30
 
-### [🟦 tap-and-tell](https://github.com/Disane87/tap-and-tell)
-Tap & Tell is a modern, NFC-powered digital guestbook that transforms how guests leave their mark at events. Guests tap their phone on an NFC tag (or scan a QR code), and a beautiful multi-step wizard guides them through leaving their name, photo, and a personal message. No app install required! 📱✨
+### [🟦 spoolman-mcp](https://github.com/Disane87/spoolman-mcp)
+MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
 - **Language:** TypeScript
-- **Topics:** digital, event, guestbook, guestbook-app, qr-code, wedding
-- ⭐ 0 · 🍴 0 · last push 2026-04-28
+- **Topics:** 3d-printing, ai, claude, filament, mcp, mcp-server
+- ⭐ 1 · 🍴 1 · last push 2026-04-16
 
 <!-- PROJECTS:END -->
 

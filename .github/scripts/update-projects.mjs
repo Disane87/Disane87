@@ -59,17 +59,21 @@ function pickProjects(repos) {
   return repos
     .filter((r) => !r.fork && !r.archived && !r.private && !r.disabled)
     .filter((r) => r.name.toLowerCase() !== USER.toLowerCase())
-    .filter((r) => r.description && r.description.trim().length > 0)
-    .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
+    .sort((a, b) => {
+      if (b.stargazers_count !== a.stargazers_count) {
+        return b.stargazers_count - a.stargazers_count;
+      }
+      return new Date(b.pushed_at) - new Date(a.pushed_at);
+    })
     .slice(0, TOP_N);
 }
 
 function renderProject(repo) {
   const emoji = EMOJI_BY_LANG[repo.language] ?? "📦";
-  const lines = [
-    `### [${emoji} ${repo.name}](${repo.html_url})`,
-    repo.description.trim(),
-  ];
+  const lines = [`### [${emoji} ${repo.name}](${repo.html_url})`];
+  if (repo.description && repo.description.trim()) {
+    lines.push(repo.description.trim());
+  }
   if (repo.language) lines.push(`- **Language:** ${repo.language}`);
   if (repo.topics && repo.topics.length > 0) {
     lines.push(`- **Topics:** ${repo.topics.slice(0, 6).join(", ")}`);
@@ -81,13 +85,16 @@ function renderProject(repo) {
 }
 
 function buildBlock(projects) {
-  const today = new Date().toISOString().slice(0, 10);
+  const force = process.env.FORCE_REFRESH === "1";
+  const stamp = force
+    ? new Date().toISOString().replace(/\.\d{3}Z$/, "Z")
+    : new Date().toISOString().slice(0, 10);
   const body = projects.map(renderProject).join("\n\n");
   return [
     START,
     "## 🛠️ My Recent Projects",
     "",
-    `_Auto-updated daily — last refresh: ${today}_`,
+    `_Auto-updated daily — last refresh: ${stamp}_`,
     "",
     body,
     "",
