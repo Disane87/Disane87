@@ -25,37 +25,47 @@ If you want to join my lovely community and/or in need for some support, just he
 
 [![Banner](./forum_banner.png)](https://forum.disane.dev)
 
+<!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-### [📄 docudigger](https://github.com/Disane87/docudigger)
-A website scraper for automating the retrieval of invoices as PDFs, useful for taxes or document management systems (DMS).
-- **Technologies:** Node.js, TypeScript
-- **Topics:** Web scraping, DMS
+_Auto-updated daily — last refresh: 2026-05-08_
 
-### [🛠️ SpoolmanDB](https://github.com/Disane87/SpoolmanDB)
-A centralized database for storing information about 3D printing filaments and their manufacturers.
-- **Technologies:** Python
-- **Topics:** 3D printing, Database management
+### [🟦 Klar](https://github.com/Disane87/Klar)
+Self-hosted, privacy-first household budget tracker
+- **Language:** TypeScript
+- ⭐ 0 · 🍴 0 · last push 2026-05-07
 
-### [🔍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
-A tool to extract filament data from Spoolman for compatibility with SpoolmanDB.
-- **Technologies:** Python
-- **Topics:** 3D printing, Data extraction
+### [💚 spoolman-filament-swatch](https://github.com/Disane87/spoolman-filament-swatch)
+This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
+- **Language:** Vue
+- **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
+- ⭐ 0 · 🍴 2 · last push 2026-05-07
 
-### [🏠 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
-Integration of Spoolman with Home Assistant for 3D printing monitoring and management.
-- **Technologies:** Python
-- **Topics:** Home automation, 3D printing
+### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
+🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
+- **Language:** TypeScript
+- **Topics:** angular, astro, automation, browser-automation, docker, dojo
+- ⭐ 10 · 🍴 1 · last push 2026-05-04
 
-### [🍽️ grocy-meal-planning](https://github.com/Disane87/grocy-meal-planning)
-A meal planning tool integrated with Grocy for efficient grocery management.
-- **Technologies:** Angular, TypeScript
-- **Topics:** Meal planning, Grocery management
+### [🟦 vellum](https://github.com/Disane87/vellum)
+A privacy-first desktop email client for IMAP/SMTP ✉️
+- **Language:** TypeScript
+- **Topics:** angular, desktop-app, electron, email, email-client, imap
+- ⭐ 0 · 🍴 0 · last push 2026-05-04
 
-### [🖼️ text2image-nodejs](https://github.com/Disane87/text2image-nodejs)
-A simple tool to create images from text using Node.js.
-- **Technologies:** Node.js, TypeScript
-- **Topics:** Image generation, Web development
+### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
+Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
+- **Language:** Python
+- **Topics:** 3d-printing, extraction, filaments, python, spoolman
+- ⭐ 3 · 🍴 1 · last push 2026-04-30
+
+### [🟦 tap-and-tell](https://github.com/Disane87/tap-and-tell)
+Tap & Tell is a modern, NFC-powered digital guestbook that transforms how guests leave their mark at events. Guests tap their phone on an NFC tag (or scan a QR code), and a beautiful multi-step wizard guides them through leaving their name, photo, and a personal message. No app install required! 📱✨
+- **Language:** TypeScript
+- **Topics:** digital, event, guestbook, guestbook-app, qr-code, wedding
+- ⭐ 0 · 🍴 0 · last push 2026-04-28
+
+<!-- PROJECTS:END -->
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 🤝
 
