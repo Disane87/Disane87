@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-05-16_
+_Auto-updated daily — last refresh: 2026-05-17_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -64,7 +64,7 @@ Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
 - **Language:** Vue
 - **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
-- ⭐ 1 · 🍴 2 · last push 2026-05-13
+- ⭐ 2 · 🍴 2 · last push 2026-05-13
 
 <!-- PROJECTS:END -->
 
