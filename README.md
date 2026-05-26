@@ -28,13 +28,13 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-05-25_
+_Auto-updated daily — last refresh: 2026-05-26_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 220 · 🍴 21 · last push 2026-05-21
+- ⭐ 221 · 🍴 22 · last push 2026-05-21
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
@@ -48,17 +48,17 @@ Get Threads api short- and long-lived access tokens automagically 🪄
 - **Topics:** meta, rest-api, tester, threads, threadsapi
 - ⭐ 5 · 🍴 0 · last push 2024-09-04
 
+### [💚 spoolman-filament-swatch](https://github.com/Disane87/spoolman-filament-swatch)
+This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
+- **Language:** Vue
+- **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
+- ⭐ 4 · 🍴 3 · last push 2026-05-23
+
 ### [🟦 grocy-meal-planning](https://github.com/Disane87/grocy-meal-planning)
 Comfortable meal planning with grocy 🥗
 - **Language:** TypeScript
 - **Topics:** angular, grocy, meal-planner, rxjs, tailwindcss
 - ⭐ 4 · 🍴 1 · last push 2026-05-10
-
-### [💚 spoolman-filament-swatch](https://github.com/Disane87/spoolman-filament-swatch)
-This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
-- **Language:** Vue
-- **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
-- ⭐ 3 · 🍴 2 · last push 2026-05-23
 
 ### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
