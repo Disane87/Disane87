@@ -28,13 +28,13 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-06-04_
+_Auto-updated daily — last refresh: 2026-06-05_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 224 · 🍴 22 · last push 2026-06-02
+- ⭐ 224 · 🍴 22 · last push 2026-06-04
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
@@ -64,7 +64,7 @@ Comfortable meal planning with grocy 🥗
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Language:** Python
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 3 · 🍴 1 · last push 2026-05-30
+- ⭐ 3 · 🍴 1 · last push 2026-06-05
 
 <!-- PROJECTS:END -->
 
