@@ -28,19 +28,19 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-06-10_
+_Auto-updated daily — last refresh: 2026-06-11_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 227 · 🍴 22 · last push 2026-06-08
+- ⭐ 227 · 🍴 22 · last push 2026-06-10
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - **Language:** TypeScript
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
-- ⭐ 13 · 🍴 1 · last push 2026-06-02
+- ⭐ 14 · 🍴 1 · last push 2026-06-02
 
 ### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
 Get Threads api short- and long-lived access tokens automagically 🪄
