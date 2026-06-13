@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-06-12_
+_Auto-updated daily — last refresh: 2026-06-13_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -52,7 +52,7 @@ Get Threads api short- and long-lived access tokens automagically 🪄
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
 - **Language:** Vue
 - **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
-- ⭐ 4 · 🍴 3 · last push 2026-06-06
+- ⭐ 4 · 🍴 3 · last push 2026-06-13
 
 ### [🟦 grocy-meal-planning](https://github.com/Disane87/grocy-meal-planning)
 Comfortable meal planning with grocy 🥗
@@ -64,7 +64,7 @@ Comfortable meal planning with grocy 🥗
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Language:** Python
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 3 · 🍴 1 · last push 2026-06-05
+- ⭐ 3 · 🍴 1 · last push 2026-06-12
 
 <!-- PROJECTS:END -->
 
