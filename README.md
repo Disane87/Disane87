@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Marco Franke
+# Hi there 👋, I'm Marco Thiel
 
 I'm a professional fullstack developer based in Viersen, NRW, Germany. With over 16 years of experience in software development, I specialize in JavaScript, TypeScript, Python, NodeJS, and REST APIs. I enjoy working on projects that solve real-world problems and contribute to the open-source community. 
 
