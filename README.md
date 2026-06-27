@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-06-26_
+_Auto-updated daily — last refresh: 2026-06-27_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -60,11 +60,11 @@ Comfortable meal planning with grocy 🥗
 - **Topics:** angular, grocy, meal-planner, rxjs, tailwindcss
 - ⭐ 4 · 🍴 1 · last push 2026-05-10
 
-### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
-Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
-- **Language:** Python
-- **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 3 · 🍴 1 · last push 2026-06-12
+### [🟦 spoolman-mcp](https://github.com/Disane87/spoolman-mcp)
+MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
+- **Language:** TypeScript
+- **Topics:** 3d-printing, ai, claude, filament, mcp, mcp-server
+- ⭐ 3 · 🍴 2 · last push 2026-06-23
 
 <!-- PROJECTS:END -->
 
