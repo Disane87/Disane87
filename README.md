@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-07-06_
+_Auto-updated daily — last refresh: 2026-07-07_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -40,7 +40,7 @@ Spoolman home assistant integration 🏠
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - **Language:** TypeScript
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
-- ⭐ 15 · 🍴 1 · last push 2026-07-01
+- ⭐ 15 · 🍴 1 · last push 2026-07-06
 
 ### [💚 spoolman-filament-swatch](https://github.com/Disane87/spoolman-filament-swatch)
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
