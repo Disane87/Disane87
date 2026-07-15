@@ -28,13 +28,13 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-07-14_
+_Auto-updated daily — last refresh: 2026-07-15_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 233 · 🍴 22 · last push 2026-07-11
+- ⭐ 234 · 🍴 22 · last push 2026-07-14
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
@@ -52,7 +52,7 @@ This is a beautiful, interactive filament color browser for Spoolman. Think of i
 MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
 - **Language:** TypeScript
 - **Topics:** 3d-printing, ai, claude, filament, mcp, mcp-server
-- ⭐ 5 · 🍴 3 · last push 2026-06-23
+- ⭐ 6 · 🍴 3 · last push 2026-06-23
 
 ### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
 Get Threads api short- and long-lived access tokens automagically 🪄
