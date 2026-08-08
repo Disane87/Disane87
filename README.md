@@ -28,19 +28,19 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-08-07_
+_Auto-updated daily — last refresh: 2026-08-08_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 236 · 🍴 23 · last push 2026-08-06
+- ⭐ 237 · 🍴 23 · last push 2026-08-07
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - **Language:** TypeScript
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
-- ⭐ 17 · 🍴 1 · last push 2026-08-03
+- ⭐ 17 · 🍴 1 · last push 2026-08-08
 
 ### [💚 spoolman-filament-swatch](https://github.com/Disane87/spoolman-filament-swatch)
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
