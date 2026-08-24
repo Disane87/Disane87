@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-08-23_
+_Auto-updated daily — last refresh: 2026-08-24_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -52,7 +52,7 @@ This is a beautiful, interactive filament color browser for Spoolman. Think of i
 MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
 - **Language:** TypeScript
 - **Topics:** 3d-printing, ai, claude, filament, mcp, mcp-server
-- ⭐ 9 · 🍴 2 · last push 2026-08-15
+- ⭐ 10 · 🍴 2 · last push 2026-08-15
 
 ### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
 Get Threads api short- and long-lived access tokens automagically 🪄
