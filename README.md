@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-09-01_
+_Auto-updated daily — last refresh: 2026-09-02_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -40,7 +40,7 @@ Spoolman home assistant integration 🏠
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - **Language:** TypeScript
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
-- ⭐ 18 · 🍴 2 · last push 2026-08-31
+- ⭐ 18 · 🍴 2 · last push 2026-09-02
 
 ### [🟦 spoolman-mcp](https://github.com/Disane87/spoolman-mcp)
 MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
@@ -64,7 +64,7 @@ Get Threads api short- and long-lived access tokens automagically 🪄
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Language:** Python
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 4 · 🍴 1 · last push 2026-08-29
+- ⭐ 4 · 🍴 1 · last push 2026-09-01
 
 <!-- PROJECTS:END -->
 
