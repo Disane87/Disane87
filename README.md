@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-09-21_
+_Auto-updated daily — last refresh: 2026-09-22_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -40,7 +40,7 @@ Spoolman home assistant integration 🏠
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - **Language:** TypeScript
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
-- ⭐ 20 · 🍴 2 · last push 2026-09-14
+- ⭐ 20 · 🍴 2 · last push 2026-09-21
 
 ### [🟦 spoolman-mcp](https://github.com/Disane87/spoolman-mcp)
 MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
@@ -52,7 +52,7 @@ MCP Server for Spoolman — manage your 3D printer filament inventory through AI
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
 - **Language:** Vue
 - **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
-- ⭐ 12 · 🍴 2 · last push 2026-09-15
+- ⭐ 12 · 🍴 2 · last push 2026-09-21
 
 ### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
