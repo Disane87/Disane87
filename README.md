@@ -28,13 +28,13 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-10-03_
+_Auto-updated daily — last refresh: 2026-10-04_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 255 · 🍴 25 · last push 2026-10-01
+- ⭐ 256 · 🍴 25 · last push 2026-10-01
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
@@ -46,7 +46,7 @@ Spoolman home assistant integration 🏠
 MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
 - **Language:** TypeScript
 - **Topics:** 3d-printing, ai, claude, filament, mcp, mcp-server
-- ⭐ 16 · 🍴 2 · last push 2026-08-15
+- ⭐ 17 · 🍴 2 · last push 2026-08-15
 
 ### [💚 spoolman-filament-swatch](https://github.com/Disane87/spoolman-filament-swatch)
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
@@ -58,7 +58,7 @@ This is a beautiful, interactive filament color browser for Spoolman. Think of i
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Language:** Python
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 5 · 🍴 1 · last push 2026-09-27
+- ⭐ 5 · 🍴 1 · last push 2026-10-03
 
 ### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
 Get Threads api short- and long-lived access tokens automagically 🪄
