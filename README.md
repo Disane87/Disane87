@@ -28,19 +28,19 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-10-04_
+_Auto-updated daily — last refresh: 2026-10-05_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 256 · 🍴 25 · last push 2026-10-01
+- ⭐ 257 · 🍴 25 · last push 2026-10-01
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - **Language:** TypeScript
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
-- ⭐ 20 · 🍴 2 · last push 2026-09-28
+- ⭐ 20 · 🍴 2 · last push 2026-10-04
 
 ### [🟦 spoolman-mcp](https://github.com/Disane87/spoolman-mcp)
 MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
@@ -52,13 +52,13 @@ MCP Server for Spoolman — manage your 3D printer filament inventory through AI
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
 - **Language:** Vue
 - **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
-- ⭐ 11 · 🍴 3 · last push 2026-09-30
+- ⭐ 11 · 🍴 3 · last push 2026-10-04
 
 ### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Language:** Python
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 5 · 🍴 1 · last push 2026-10-03
+- ⭐ 5 · 🍴 1 · last push 2026-10-04
 
 ### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
 Get Threads api short- and long-lived access tokens automagically 🪄
