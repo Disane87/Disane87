@@ -28,13 +28,13 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-10-08_
+_Auto-updated daily — last refresh: 2026-10-09_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 257 · 🍴 25 · last push 2026-10-07
+- ⭐ 257 · 🍴 25 · last push 2026-10-08
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
@@ -58,13 +58,13 @@ This is a beautiful, interactive filament color browser for Spoolman. Think of i
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Language:** Python
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 5 · 🍴 1 · last push 2026-10-04
+- ⭐ 5 · 🍴 1 · last push 2026-10-09
 
-### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
-Get Threads api short- and long-lived access tokens automagically 🪄
-- **Language:** Python
-- **Topics:** meta, rest-api, tester, threads, threadsapi
-- ⭐ 5 · 🍴 0 · last push 2024-09-04
+### [🟦 grocy-meal-planning](https://github.com/Disane87/grocy-meal-planning)
+Comfortable meal planning with grocy 🥗
+- **Language:** TypeScript
+- **Topics:** angular, grocy, meal-planner, rxjs, tailwindcss
+- ⭐ 5 · 🍴 1 · last push 2026-09-02
 
 <!-- PROJECTS:END -->
 
