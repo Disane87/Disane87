@@ -28,19 +28,19 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-10-09_
+_Auto-updated daily — last refresh: 2026-10-10_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 257 · 🍴 25 · last push 2026-10-08
+- ⭐ 257 · 🍴 25 · last push 2026-10-10
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - **Language:** TypeScript
 - **Topics:** angular, astro, automation, browser-automation, docker, dojo
-- ⭐ 20 · 🍴 2 · last push 2026-10-04
+- ⭐ 20 · 🍴 2 · last push 2026-10-09
 
 ### [🟦 spoolman-mcp](https://github.com/Disane87/spoolman-mcp)
 MCP Server for Spoolman — manage your 3D printer filament inventory through AI assistants
@@ -52,19 +52,19 @@ MCP Server for Spoolman — manage your 3D printer filament inventory through AI
 This is a beautiful, interactive filament color browser for Spoolman. Think of it as your personal filament showroom - browse colors, filter by material, vendor, location, and find that perfect filament for your next print! 🖨️✨
 - **Language:** Vue
 - **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
-- ⭐ 11 · 🍴 3 · last push 2026-10-05
+- ⭐ 12 · 🍴 3 · last push 2026-10-05
 
-### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
-Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
+### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
+Get Threads api short- and long-lived access tokens automagically 🪄
 - **Language:** Python
-- **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 5 · 🍴 1 · last push 2026-10-09
+- **Topics:** meta, rest-api, tester, threads, threadsapi
+- ⭐ 5 · 🍴 0 · last push 2026-10-09
 
 ### [🟦 grocy-meal-planning](https://github.com/Disane87/grocy-meal-planning)
 Comfortable meal planning with grocy 🥗
 - **Language:** TypeScript
 - **Topics:** angular, grocy, meal-planner, rxjs, tailwindcss
-- ⭐ 5 · 🍴 1 · last push 2026-09-02
+- ⭐ 5 · 🍴 1 · last push 2026-10-09
 
 <!-- PROJECTS:END -->
 
