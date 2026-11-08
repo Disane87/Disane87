@@ -28,7 +28,7 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-11-07_
+_Auto-updated daily — last refresh: 2026-11-08_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
@@ -58,7 +58,7 @@ This is a beautiful, interactive filament color browser for Spoolman. Think of i
 Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
 - **Language:** Python
 - **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 5 · 🍴 1 · last push 2026-11-02
+- ⭐ 5 · 🍴 1 · last push 2026-11-07
 
 ### [🐍 threads-api-tester](https://github.com/Disane87/threads-api-tester)
 Get Threads api short- and long-lived access tokens automagically 🪄
