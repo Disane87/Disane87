@@ -28,13 +28,13 @@ If you want to join my lovely community and/or in need for some support, just he
 <!-- PROJECTS:START -->
 ## 🛠️ My Recent Projects
 
-_Auto-updated daily — last refresh: 2026-11-26_
+_Auto-updated daily — last refresh: 2026-11-27_
 
 ### [🐍 spoolman-homeassistant](https://github.com/Disane87/spoolman-homeassistant)
 Spoolman home assistant integration 🏠
 - **Language:** Python
 - **Topics:** 3dprint, 3dprinting, homeassistant, integration, klipper, spoolman
-- ⭐ 265 · 🍴 26 · last push 2026-11-25
+- ⭐ 266 · 🍴 26 · last push 2026-11-25
 
 ### [🟦 scrape-dojo](https://github.com/Disane87/scrape-dojo)
 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
@@ -54,17 +54,17 @@ This is a beautiful, interactive filament color browser for Spoolman. Think of i
 - **Topics:** 3d-printing, color-management, color-swatch, colors, filament, palette-colors
 - ⭐ 14 · 🍴 3 · last push 2026-11-20
 
+### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
+Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
+- **Language:** Python
+- **Topics:** 3d-printing, extraction, filaments, python, spoolman
+- ⭐ 5 · 🍴 1 · last push 2026-11-26
+
 ### [🟦 grocy-meal-planning](https://github.com/Disane87/grocy-meal-planning)
 Comfortable meal planning with grocy 🥗
 - **Language:** TypeScript
 - **Topics:** angular, grocy, meal-planner, rxjs, tailwindcss
 - ⭐ 5 · 🍴 2 · last push 2026-11-25
-
-### [🐍 Spoolman-filament-extractor](https://github.com/Disane87/Spoolman-filament-extractor)
-Extract your filaments from Spoolman to be compatible with SpoolmanDB 🎉
-- **Language:** Python
-- **Topics:** 3d-printing, extraction, filaments, python, spoolman
-- ⭐ 5 · 🍴 1 · last push 2026-11-21
 
 <!-- PROJECTS:END -->
 
